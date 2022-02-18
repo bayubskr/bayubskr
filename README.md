@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bayubskr
-- 👀 I’m interested in web-developer
-- 🌱 I’m currently learning css & javascript
-
-- I'm beginner here, so please be kind to me
+- 👀 I’m interested in web developer
+- 🌱 I’m currently try to mastering front-end web developer
 
 <!---
 bayubskr/bayubskr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
